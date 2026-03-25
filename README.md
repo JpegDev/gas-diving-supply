@@ -1,6 +1,3 @@
-# README.md
-
-```markdown
 # 🤿 Gaz Diving Supply — Calculateur de Mélanges de Plongée
 
 Application de gestion et calcul de mélanges de gaz pour la plongée (Nitrox, Trimix, Oxygène).
@@ -191,7 +188,6 @@ venv\Scripts\activate      # Windows
 ## 📄 Licence
 
 MIT License — Libre d'utilisation et de modification.
-```
 
 
 
