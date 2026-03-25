@@ -4,6 +4,14 @@
 # 🤿 Gaz Diving Supply — Calculateur de Mélanges de Plongée
 
 Application de gestion et calcul de mélanges de gaz pour la plongée (Nitrox, Trimix, Oxygène).
+<img width="1212" height="840" alt="Capture d’écran 2026-03-25 à 14 43 52" src="https://github.com/user-attachments/assets/1a7435d6-e6d8-4cf5-a52f-bd7ebbb6d969" />
+<img width="1212" height="840" alt="Capture d’écran 2026-03-25 à 14 43 55" src="https://github.com/user-attachments/assets/d7568695-7861-4bef-9e5f-c3e0ff477986" />
+<img width="1212" height="840" alt="Capture d’écran 2026-03-25 à 14 43 57" src="https://github.com/user-attachments/assets/aeee90da-5716-4219-8eac-c77bad14d37f" />
+<img width="1212" height="840" alt="Capture d’écran 2026-03-25 à 14 44 00" src="https://github.com/user-attachments/assets/44a84c1e-9412-47b8-8ba9-49a19700382e" />
+
+
+
+
 
 ---
 
