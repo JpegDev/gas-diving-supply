@@ -1,0 +1,77 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.pyc
+
+# ======================
+# Environnement virtuel
+# ======================
+venv/
+env/
+.env
+.venv
+ENV/
+
+# ======================
+# PyInstaller
+# ======================
+build/
+dist/
+*.spec
+
+# ======================
+# Base de données
+# ======================
+*.db
+*.sqlite
+*.sqlite3
+
+# ======================
+# macOS
+# ======================
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# ======================
+# Windows
+# ======================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ======================
+# Linux
+# ======================
+*~
+.fuse_hidden*
+
+# ======================
+# IDEs
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# ======================
+# Logs
+# ======================
+*.log
+logs/
+
+# ======================
+# Variables d'environnement
+# ======================
+.env
+.env.local
+.env.production
