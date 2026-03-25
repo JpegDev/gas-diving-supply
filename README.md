@@ -6,10 +6,10 @@
 Application de gestion et calcul de mélanges de gaz pour la plongée (Nitrox, Trimix, Oxygène).
 
 ## 📋 Visuels
-![Stock](gifs/stock.gif)
-![Bottles](gifs/bottles.gif)
-![Bottle statements](gifs/bottle-statements.gif)
-![Filling session](gifs/filling-session.gif)
+![stock](https://github.com/user-attachments/assets/b5251b67-ab13-4db1-9e95-8387a171ce0c)
+![bottles](https://github.com/user-attachments/assets/62eb1c7f-6e23-4cd7-8429-3a3c3907c0f9)
+![bottle-statements](https://github.com/user-attachments/assets/dcad18f5-4cf5-497d-b71c-d0164618b9bc)
+![filling-session](https://github.com/user-attachments/assets/bfac8635-b406-4a71-a2d0-5a8d0efa86bf)
 
 ---
 
